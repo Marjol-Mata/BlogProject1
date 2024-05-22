@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BlogProject1
 
 BlogProject1 is a Django-based blogging platform that allows users to create, edit, publish, and delete blog posts. Users can also comment on posts, and comments can be approved or removed by authenticated users.
@@ -42,7 +41,3 @@ BlogProject1 is a Django-based blogging platform that allows users to create, ed
 
 1. Open your browser and go to `http://127.0.0.1:8000/` to view the blog.
 2. Use the admin interface at `http://127.0.0.1:8000/admin/` to manage posts and comments.
-
-=======
-# BlogProject1
->>>>>>> origin/main
